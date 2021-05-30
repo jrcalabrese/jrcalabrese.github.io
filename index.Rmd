@@ -13,3 +13,15 @@ knitr::include_graphics("images/newphoto2.jpg")
 
 I am a graduate student in the Clinical Psychology Program at [The Ohio State University](https://psychology.osu.edu/). My research interests include emotion dysregulation, facial affective behavior, and quantitative methods. I received my Bachelor's degree in Psychology at [Smith College](smith.edu) under Dr. Nnamdi Pole, Dr. Randi Garcia, and Dr. Randy Frost.
 :::
+
+</br>
+
+</br>
+
+</br>
+
+</br>
+
+</br>
+
+</br>

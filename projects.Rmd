@@ -1,6 +1,0 @@
----
-title: "Projects"
-output: distill::distill_article
----
-
-Here is a list of my projects.

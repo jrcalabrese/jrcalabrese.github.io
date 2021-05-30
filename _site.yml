@@ -6,6 +6,7 @@ twitter:
 description: |
   My Website
 output_dir: "docs"
+#theme: theme.css 
 navbar:
   right:
     - text: "Home"
@@ -13,7 +14,6 @@ navbar:
     - text: "CV"
       href: Github_CV.pdf
     - text: "Projects"
-      href: projects.html
       menu:
         - text: "Cheatsheets"
           href: cheatsheets.html
