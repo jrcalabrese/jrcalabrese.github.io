@@ -1,18 +1,15 @@
 ---
-title: "My Website"
+title: "Julianna R. Calabrese"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  This website is a big work-in-progress - excuse the mess!
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+:::float-image
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
+```{r out.width='150px', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/newphoto2.jpg")
 ```
 
+I am a graduate student in the Clinical Psychology Program at [The Ohio State University](https://psychology.osu.edu/). My research interests include emotion dysregulation, facial affective behavior, and quantitative methods. I received my Bachelor's degree in Psychology at [Smith College](smith.edu) under Dr. Nnamdi Pole, Dr. Randi Garcia, and Dr. Randy Frost.
+:::
