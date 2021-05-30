@@ -1,5 +1,8 @@
 name: "jrcalabrese.github.io"
-title: "My Website"
+title: "Julianna R. Calabrese"
+base_url: https://jrcalabrese.github.io/
+twitter:
+  site: "@jrosecalabrese"
 description: |
   My Website
 output_dir: "docs"
@@ -9,4 +12,9 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Projects"
+      href: projects.html
+      menu:
+        - text: "Cheatsheets"
+          href: cheatsheets.html
 output: distill::distill_article

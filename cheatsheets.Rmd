@@ -1,0 +1,13 @@
+---
+title: "Cheatsheets"
+output: html_document
+---
+
+Most of these cheatsheets and guides are really old, but I still like them. 
+
+| Cheatsheets | Date Created |
+| ----------- | ----------- |
+| ![The Basics of Data Wrangling](https://jrcalabrese.github.io/cheatsheets/data_wrangling.html)   | September 17, 2019        |
+| A Very Short Review of ggplot2 | A Very Short Review of ggplot2 |
+| TaDLab’s Guide to Making Pretty RMarkdown Documents | March 19, 2019 |
+| Learning R  | November 7, 2018 |
