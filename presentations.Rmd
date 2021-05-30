@@ -1,0 +1,12 @@
+---
+title: "Presentations"
+output: distill::distill_article
+---
+
+A few educational presentations from when I was at the University of Michigan. Click on any to download the PowerPoint file.
+
+| Cheatsheets | Date Created |
+| ----------- | ----------- |
+| [How to Apply to Graduate School in Psychology](presentations/data_wrangling.html) | February 12, 2020 |
+| [Clinical Interviewing with the SCID-5](presentations/scid5.pptx) | October 16, 2019 |
+| [Introduction to Statistics, R, and RStudio](presentations/rstudio.pptx) | October 2, 2019 |

@@ -6,14 +6,14 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-30T16:39:19-04:00"
+      "last_modified": "2021-05-30T16:51:35-04:00"
     },
     {
       "path": "cheatsheets.html",
       "title": "Cheatsheets",
       "author": [],
-      "contents": "\n\n\n\n\n\n\n\n\nJulianna R. Calabrese\n\n\nHome\nAbout\n\n\nProjects\n \n▾\n\n\nCheatsheets\n\n\n☰\n\n\n  \n    \n      \n        \n        \n        \n      \n      \n    \n    \n      \n  Home\n\n\n  About\n\n\n  \n    Projects\n     \n    \n  \n  \n      Cheatsheets\n    \n  \n      \n  \n\n\n\n\n\n\nCheatsheets\n\n\n\n\nMost of these cheatsheets and guides are really old, but I still like them.\nCheatsheets\nDate Created\n\nSeptember 17, 2019\nA Very Short Review of ggplot2\nA Very Short Review of ggplot2\nTaDLab’s Guide to Making Pretty RMarkdown Documents\nMarch 19, 2019\nLearning R\nNovember 7, 2018\n\n\n\n\n// add bootstrap table styles to pandoc tables\nfunction bootstrapStylePandocTables() {\n  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');\n}\n$(document).ready(function () {\n  bootstrapStylePandocTables();\n});\n\n\n\n$(document).ready(function () {\n  window.buildTabsets(\"TOC\");\n});\n\n$(document).ready(function () {\n  $('.tabset-dropdown > .nav-tabs > li').click(function () {\n    $(this).parent().toggleClass('nav-tabs-open');\n  });\n});\n\n  (function () {\n    var script = document.createElement(\"script\");\n    script.type = \"text/javascript\";\n    script.src  = \"https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\";\n    document.getElementsByTagName(\"head\")[0].appendChild(script);\n  })();\n",
-      "last_modified": "2021-05-30T16:39:19-04:00"
+      "contents": "\nMost of these cheatsheets and guides are really old, but I still like them. I’ll try to make updated versions in the future.\nCheatsheets\nDate Created\nThe Basics of Data Wrangling\nSeptember 17, 2019\nA Very Short Review of ggplot2\nApril 8, 2019\nTaDLab’s Guide to Making Pretty RMarkdown Documents\nMarch 19, 2019\nLearning R\nNovember 7, 2018\n\n\n\n",
+      "last_modified": "2021-05-30T16:51:37-04:00"
     },
     {
       "path": "index.html",
@@ -21,14 +21,21 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-30T16:39:20-04:00"
+      "last_modified": "2021-05-30T16:51:37-04:00"
+    },
+    {
+      "path": "presentations.html",
+      "title": "Presentations",
+      "author": [],
+      "contents": "\nA few educational presentations from when I was at the University of Michigan. Click on any to download the PowerPoint file.\nCheatsheets\nDate Created\nHow to Apply to Graduate School in Psychology\nFebruary 12, 2020\nClinical Interviewing with the SCID-5\nOctober 16, 2019\nIntroduction to Statistics, R, and RStudio\nOctober 2, 2019\n\n\n\n",
+      "last_modified": "2021-05-30T16:51:38-04:00"
     },
     {
       "path": "projects.html",
       "title": "Projects",
       "author": [],
       "contents": "\nHere is a list of my projects.\n\n\n\n",
-      "last_modified": "2021-05-30T16:39:21-04:00"
+      "last_modified": "2021-05-30T16:51:39-04:00"
     }
   ],
   "collections": []

@@ -17,4 +17,6 @@ navbar:
       menu:
         - text: "Cheatsheets"
           href: cheatsheets.html
+        - text: "Presentations"
+          href: presentations.html
 output: distill::distill_article
