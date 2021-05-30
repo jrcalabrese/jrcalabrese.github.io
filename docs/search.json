@@ -1,19 +1,11 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
-      "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-05-30T17:07:58-04:00"
-    },
-    {
       "path": "cheatsheets.html",
       "title": "Cheatsheets",
       "author": [],
       "contents": "\nMost of these cheatsheets and guides are really old, but I still like them. I’ll try to make updated versions in the future.\nCheatsheets\nDate Created\nThe Basics of Data Wrangling\nSeptember 17, 2019\nA Very Short Review of ggplot2\nApril 8, 2019\nTaDLab’s Guide to Making Pretty RMarkdown Documents\nMarch 19, 2019\nLearning R\nNovember 7, 2018\n\n\n\n",
-      "last_modified": "2021-05-30T17:07:59-04:00"
+      "last_modified": "2021-05-30T17:10:46-04:00"
     },
     {
       "path": "index.html",
@@ -21,21 +13,21 @@
       "description": "This website is a big work-in-progress - excuse the mess!\n",
       "author": [],
       "contents": "\n\n\n\n\nI am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion dysregulation, facial affective behavior, and quantitative methods. I received my Bachelor’s degree in Psychology at Smith College under Dr. Nnamdi Pole, Dr. Randi Garcia, and Dr. Randy Frost.\n\n\n\n\n",
-      "last_modified": "2021-05-30T17:08:00-04:00"
+      "last_modified": "2021-05-30T17:10:48-04:00"
     },
     {
       "path": "presentations.html",
       "title": "Presentations",
       "author": [],
       "contents": "\nA few educational presentations from when I was at the University of Michigan. Click on any to download the PowerPoint file.\nCheatsheets\nDate Created\nHow to Apply to Graduate School in Psychology\nFebruary 12, 2020\nClinical Interviewing with the SCID-5\nOctober 16, 2019\nIntroduction to Statistics, R, and RStudio\nOctober 2, 2019\n\n\n\n",
-      "last_modified": "2021-05-30T17:08:01-04:00"
+      "last_modified": "2021-05-30T17:10:48-04:00"
     },
     {
       "path": "projects.html",
       "title": "Projects",
       "author": [],
       "contents": "\nHere is a list of my projects.\n\n\n\n",
-      "last_modified": "2021-05-30T17:08:02-04:00"
+      "last_modified": "2021-05-30T17:10:49-04:00"
     }
   ],
   "collections": []
