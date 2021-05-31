@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/jrcalabrese.github.io/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "432833021",
+    "hash": "72486733",
     "contents": "",
     "dirty": false,
     "created": 1622405905015.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,3",
+        "cursorPosition": "9,58",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1622474901,
+    "lastKnownWriteTime": 1622476262,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1622474902008,
+    "last_content_update": 1622476262257,
     "read_only": false,
     "read_only_alternatives": []
 }
