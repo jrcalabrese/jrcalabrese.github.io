@@ -15,10 +15,8 @@ navbar:
       href: Github_CV.pdf
     - text: "Projects"
       menu:
-        - text: "Cheatsheets"
-          href: cheatsheets.html
-        - text: "Presentations"
-          href: presentations.html
+        - text: "Archive"
+          href: archive.html
         - text: "TidyTuesday"
           href: https://github.com/jrcalabrese/TidyTuesday
 output: distill::distill_article

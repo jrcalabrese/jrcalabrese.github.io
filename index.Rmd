@@ -1,27 +1,17 @@
 ---
 title: "Julianna R. Calabrese"
-description: |
-  This website is a big work-in-progress - excuse the mess!
+image: "images/julianna.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/jrosecalabrese"
+  - label: GitHub
+    url: "https://github.com/jrcalabrese"
+  - label: GoogleScholar
+    url: "https://scholar.google.com/citations?user=u3qqDq4AAAAJ&hl=en&oi=ao"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
+ 
+I am a graduate student in the Clinical Psychology Program at [The Ohio State University](https://psychology.osu.edu/). My research interests include emotion regulation, facial affective behavior, and quantitative methods. I received my Bachelor's degree in Psychology at [Smith College](smith.edu) under Dr. Nnamdi Pole.
 
-:::float-image
-
-```{r out.width='150px', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/newphoto2.jpg")
-```
-
-I am a graduate student in the Clinical Psychology Program at [The Ohio State University](https://psychology.osu.edu/). My research interests include emotion dysregulation, facial affective behavior, and quantitative methods. I received my Bachelor's degree in Psychology at [Smith College](smith.edu) under Dr. Nnamdi Pole, Dr. Randi Garcia, and Dr. Randy Frost.
-:::
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>
-
-</br>

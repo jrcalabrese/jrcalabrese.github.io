@@ -1,0 +1,25 @@
+---
+title: "Archive"
+output: distill::distill_article
+---
+
+Here is an archive of R cheatsheets and presentations I made when I was a postbacc at the University of Michigan. The presentations will download as a .pptx file. 
+
+Most of the cheatsheets are old and were made when I didn't know R as well as I do now, but I still like them. I might try to make updated versions in the future.
+
+| Cheatsheet | Date Created |
+| ----------- | ----------- |
+| [The Basics of Data Wrangling](cheatsheets/data_wrangling.html) | September 17, 2019 |
+| [A Very Short Review of ggplot2](cheatsheets/ggplot_intro.html) | April 8, 2019 |
+| [TaDLab’s Guide to Making Pretty RMarkdown Documents](cheatsheets/pretty_r_guide.html) | March 19, 2019 |
+| [Learning R](cheatsheets/Learning_R.html) | November 7, 2018 |
+
+
+| Presentation | Date Created |
+| ----------- | ----------- |
+| [How to Apply to Graduate School in Psychology](presentations/graduateschool.pptx) | February 12, 2020 |
+| [Clinical Interviewing with the SCID-5](presentations/scid5.pptx) | October 16, 2019 |
+| [Introduction to Statistics, R, and RStudio](presentations/rstudio.pptx) | October 2, 2019 |
+
+
+

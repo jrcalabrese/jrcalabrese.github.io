@@ -1,26 +1,18 @@
 {
   "articles": [
     {
-      "path": "cheatsheets.html",
-      "title": "Cheatsheets",
+      "path": "archive.html",
+      "title": "Archive",
       "author": [],
-      "contents": "\nMost of these cheatsheets and guides are really old, but I still like them. I’ll try to make updated versions in the future.\nCheatsheets\nDate Created\nThe Basics of Data Wrangling\nSeptember 17, 2019\nA Very Short Review of ggplot2\nApril 8, 2019\nTaDLab’s Guide to Making Pretty RMarkdown Documents\nMarch 19, 2019\nLearning R\nNovember 7, 2018\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2021-05-30T18:37:58-04:00"
+      "contents": "\nHere is an archive of R cheatsheets and presentations I made when I was a postbacc at the University of Michigan. The presentations will download as a .pptx file.\nMost of the cheatsheets are old and were made when I didn’t know R as well as I do now, but I still like them. I might try to make updated versions in the future.\nCheatsheet\nDate Created\nThe Basics of Data Wrangling\nSeptember 17, 2019\nA Very Short Review of ggplot2\nApril 8, 2019\nTaDLab’s Guide to Making Pretty RMarkdown Documents\nMarch 19, 2019\nLearning R\nNovember 7, 2018\nPresentation\nDate Created\nHow to Apply to Graduate School in Psychology\nFebruary 12, 2020\nClinical Interviewing with the SCID-5\nOctober 16, 2019\nIntroduction to Statistics, R, and RStudio\nOctober 2, 2019\n\n\n\n",
+      "last_modified": "2021-05-31T11:30:35-04:00"
     },
     {
       "path": "index.html",
       "title": "Julianna R. Calabrese",
-      "description": "This website is a big work-in-progress - excuse the mess!\n",
       "author": [],
-      "contents": "\n\n\n\n\nI am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion dysregulation, facial affective behavior, and quantitative methods. I received my Bachelor’s degree in Psychology at Smith College under Dr. Nnamdi Pole, Dr. Randi Garcia, and Dr. Randy Frost.\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2021-05-30T18:37:59-04:00"
-    },
-    {
-      "path": "presentations.html",
-      "title": "Presentations",
-      "author": [],
-      "contents": "\nA few educational presentations from when I was at the University of Michigan. Click on any to download the PowerPoint file.\nCheatsheets\nDate Created\nHow to Apply to Graduate School in Psychology\nFebruary 12, 2020\nClinical Interviewing with the SCID-5\nOctober 16, 2019\nIntroduction to Statistics, R, and RStudio\nOctober 2, 2019\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2021-05-30T18:38:00-04:00"
+      "contents": "\n\n          \n          \n          Julianna R. Calabrese\n          \n          \n          Home\n          CV\n          \n          \n          Projects\n           \n          ▾\n          \n          \n          Archive\n          TidyTuesday\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Julianna R. Calabrese\n          \n          \n            \n              I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods. I received my Bachelor’s degree in Psychology at Smith College under Dr. Nnamdi Pole.\n            \n            \n              I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods. I received my Bachelor’s degree in Psychology at Smith College under Dr. Nnamdi Pole.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      GoogleScholar\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    GoogleScholar\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n          © Julianna Calabrese 2021 | Website created with {distill} and {postcards}\n          \n          \n\n    \n  ",
+      "last_modified": "2021-05-31T11:30:35-04:00"
     }
   ],
   "collections": []
