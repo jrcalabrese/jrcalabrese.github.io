@@ -14,4 +14,3 @@ site: distill::distill_website
 ---
  
 I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods. I was formerly a lab manager at the University of Michigan under Dr. Christopher Monk. I received my Bachelor's degree in Psychology at Smith College under Dr. Nnamdi Pole.
-
