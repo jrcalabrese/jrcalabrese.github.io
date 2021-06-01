@@ -1,9 +1,0 @@
----
-title: "Projects"
-output: distill::distill_article
----
-
-<button style="color: blue">
-  <p>Hello</p>
-</button>
-

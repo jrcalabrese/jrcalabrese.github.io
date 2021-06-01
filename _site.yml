@@ -6,7 +6,7 @@ twitter:
 description: |
   My Website
 output_dir: "docs"
-#theme: theme.css 
+theme: calabrian.css 
 navbar:
   right:
     - text: "Home"
@@ -15,8 +15,12 @@ navbar:
       href: Github_CV.pdf
     - text: "Projects"
       menu:
-        - text: "Archive"
-          href: archive.html
+        - text: "Research"
+          href: research.html
         - text: "TidyTuesday"
           href: https://github.com/jrcalabrese/TidyTuesday
+        - text: "{joycon}"
+          href: https://github.com/jrcalabrese/joycon
+        - text: "Archive"
+          href: archive.html
 output: distill::distill_article
