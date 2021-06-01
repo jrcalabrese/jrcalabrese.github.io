@@ -1,0 +1,16 @@
+---
+title: "404: Page not found"
+output: distill::distill_article
+---
+
+Sorry, something messed up. [Please click here to go back to the homepage](https://jrcalabrese.github.io/).
+
+If you clicked on something and expected something different than this 404 page, please [DM me on Twitter](https://twitter.com/jrosecalabrese) and let me know what happened.
+
+<br>
+
+<br>
+
+<br>
+
+<br>
