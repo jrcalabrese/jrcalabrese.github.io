@@ -1,0 +1,133 @@
+---
+title: "Julianna Calabrese's resume"
+author: Julianna Rose Calabrese
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    css: ['calabrian_resume.css', 'resume']
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+editor_options: 
+  chunk_output_type: console
+---
+
+Aside
+================================================================================
+
+![Julianna Calabrese](julianna.jpg){} 
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> calabrese.75@osu.edu
+- <i class="fa fa-link"></i> [jrcalabrese.github.io](https://jrcalabrese.github.io/)
+- <i class="fa fa-github"></i> [github.com/jrcalabrese](https://github.com/jrcalabrese)
+- <i class="fa fa-twitter"></i> [`@jrosecalabrese`](https://twitter.com/jrosecalabrese)
+
+
+ {#skills}
+--------------------------------------------------------------------------------
+
+I am interested in affective science, quantitative methods, and rstats. 
+
+Please contact me via email or Twitter if you are interested in collaboration. 
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Resume created with [**pagedown**](https://github.com/rstudio/pagedown). 
+
+Source code [available here](https://github.com/jrcalabrese.github.io/resume/resume.Rmd).
+
+Last updated on `r format(Sys.time(), '%B %d, %Y')`.
+
+
+Main
+================================================================================
+
+Julianna Rose Calabrese {#title}
+--------------------------------------------------------------------------------
+
+### PhD Student in Clinical Psychology
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### The Ohio State University
+
+Ph.D. in Clinical Psychology
+
+Columbus, OH
+
+2020 - Present
+
+### Smith College
+
+B.A. in Psychology, cum laude, PBK
+
+Northampton, MA
+
+2014 - 2018
+
+Thesis: Don’t Take it at Face Value: A Case Study on Facial Expressivity, Emotional Coherence, and Posttraumatic Stress Disorder
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Research Coordinator
+
+University of Michigan
+
+Ann Arbor, MI
+
+2018 - 2020
+
+- Coordinated daily research efforts and projects associated with the Study of Adolescent Neural Development (5R01MH103761-04) and the Study of Adolescent to Adult Neural Development (1R01MH121079-01)
+
+### Honors Student & Lab Member
+
+Smith College
+
+Northampton, MA
+
+2015 - 2018
+
+- Received highest honors on senior-year thesis on facial expressivity and emotional coherence in a psychotherapy case study
+
+Teaching & Clinical Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Grader 
+
+Smith College
+
+Northampton, MA
+
+2018
+
+- Research Design & Analysis
+
+### Teaching Assistant
+
+Smith College
+
+Northampton, MA
+
+2017
+
+- Introduction to Psychology
+
+### Clinical Assistant
+
+Pine Grove Behavioral Health & Addiction Services
+
+Hattiesburg, MS
+
+2015
+
+-	Conducted clinical duties on pediatric, adult, and geriatric units
+- Worked with nursing staff
+- Maintained confidentiality in accordance with HIPAA
+

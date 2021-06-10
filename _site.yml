@@ -11,8 +11,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "CV"
-      href: Github_CV.pdf
+    - text: "Resume"
+      href: resume/resume.html
     - text: "Projects"
       menu:
         - text: "Research"
