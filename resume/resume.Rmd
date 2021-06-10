@@ -27,19 +27,21 @@ Contact Info {#contact}
 - <i class="fa fa-twitter"></i> [`@jrosecalabrese`](https://twitter.com/jrosecalabrese)
 
 
- {#skills}
+Skills {#skills}
 --------------------------------------------------------------------------------
 
-I am interested in affective science, quantitative methods, and rstats. 
+Experienced in statistical analysis, data wrangling, and visualization in R and SPSS.
 
-Please contact me via email or Twitter if you are interested in collaboration. 
+Experienced in project coordination, participant recruitment, and data management. 
+
+Full CV available upon request. 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
 Resume created with [**pagedown**](https://github.com/rstudio/pagedown). 
 
-Source code [available here](https://github.com/jrcalabrese.github.io/resume/resume.Rmd).
+Source code [available here](https://github.com/jrcalabrese/jrcalabrese.github.io/blob/main/resume/resume.Rmd).
 
 Last updated on `r format(Sys.time(), '%B %d, %Y')`.
 
@@ -51,6 +53,8 @@ Julianna Rose Calabrese {#title}
 --------------------------------------------------------------------------------
 
 ### PhD Student in Clinical Psychology
+
+I am clinical psychology PhD student at The Ohio State University. My research interests include affective science, quantitative methods, and data visualization. For more information or if you are interested in collaboration, please contact me via email or Twitter.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -65,13 +69,11 @@ Columbus, OH
 
 ### Smith College
 
-B.A. in Psychology, cum laude, PBK
+B.A. in Psychology, cum laude
 
 Northampton, MA
 
 2014 - 2018
-
-Thesis: Don’t Take it at Face Value: A Case Study on Facial Expressivity, Emotional Coherence, and Posttraumatic Stress Disorder
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -95,6 +97,7 @@ Northampton, MA
 2015 - 2018
 
 - Received highest honors on senior-year thesis on facial expressivity and emotional coherence in a psychotherapy case study
+- [Thesis](https://scholarworks.smith.edu/theses/1999): Don’t Take it at Face Value: A Case Study on Facial Expressivity, Emotional Coherence, and Posttraumatic Stress Disorder
 
 Teaching & Clinical Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -130,4 +133,3 @@ Hattiesburg, MS
 -	Conducted clinical duties on pediatric, adult, and geriatric units
 - Worked with nursing staff
 - Maintained confidentiality in accordance with HIPAA
-
