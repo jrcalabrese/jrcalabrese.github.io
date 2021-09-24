@@ -21,7 +21,7 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> calabrese.75@osu.edu
+- <i class="fa fa-envelope"></i> jrc.contactme@gmail.com
 - <i class="fa fa-link"></i> [jrcalabrese.github.io](https://jrcalabrese.github.io/)
 - <i class="fa fa-github"></i> [github.com/jrcalabrese](https://github.com/jrcalabrese)
 - <i class="fa fa-twitter"></i> [`@jrosecalabrese`](https://twitter.com/jrosecalabrese)
