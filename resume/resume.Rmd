@@ -8,7 +8,7 @@ output:
     css: ['calabrian_resume.css', 'resume']
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 editor_options: 
   chunk_output_type: console
 ---

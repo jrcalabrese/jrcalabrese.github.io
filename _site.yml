@@ -16,7 +16,7 @@ navbar:
     - text: "Projects"
       menu:
         - text: "Research"
-          href: research.html
+          href: research.pdf
         - text: "TidyTuesday"
           href: https://github.com/jrcalabrese/TidyTuesday
         - text: "{joycon}"
