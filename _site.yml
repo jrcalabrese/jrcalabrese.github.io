@@ -12,7 +12,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Resume"
-      href: resume.html
+      href: resume/resume.html
     - text: "Projects"
       menu:
         - text: "Research"
