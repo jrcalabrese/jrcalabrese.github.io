@@ -6,7 +6,7 @@ output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
     css: ['calabrian_resume.css', 'resume']
-    self_contained: false
+    self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
 editor_options: 
@@ -21,7 +21,7 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> calabrese.75@osu.edu
+- <i class="fa fa-envelope"></i> [jrc.contactme@gmail.com](jrc.contactme@gmail.com)
 - <i class="fa fa-link"></i> [jrcalabrese.github.io](https://jrcalabrese.github.io/)
 - <i class="fa fa-github"></i> [github.com/jrcalabrese](https://github.com/jrcalabrese)
 - <i class="fa fa-twitter"></i> [`@jrosecalabrese`](https://twitter.com/jrosecalabrese)
