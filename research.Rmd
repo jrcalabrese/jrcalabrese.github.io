@@ -5,7 +5,7 @@ output: distill::distill_article
 
 As an undergraduate at Smith College, I was a member of Dr. Nnamdi Pole's lab. I completed my [senior thesis](https://scholarworks.smith.edu/theses/1999/) on facial expressivity, emotional coherence, and PTSD in a psychotherapy case study. 
 
-After graduating, I joined [Dr. Christoper Monk's lab](https://sites.lsa.umich.edu/monk-lab/) as a postbacc lab manager and coordinated study efforts with the [Study of Adolescent Neural Development](https://sites.lsa.umich.edu/monk-lab/current-projects/) (SAND), a substudy of the [Fragile Families and Child Wellbeing Study](https://fragilefamilies.princeton.edu/). I am currently writing a paper on ventral striatum connectivity and reward processing in the SAND sample; we hope to submit it to Human Brain Mapping soon.
+After graduating, I joined [Dr. Christoper Monk's lab](https://sites.lsa.umich.edu/monk-lab/) as a postbacc lab manager and coordinated study efforts with the [Study of Adolescent Neural Development](https://sites.lsa.umich.edu/monk-lab/current-projects/) (SAND), a substudy of the [Fragile Families and Child Wellbeing Study](https://fragilefamilies.princeton.edu/). I am currently writing a paper on ventral striatum connectivity and reward processing in the SAND sample; we hope to submit it to Brain Research soon.
 
 I joined The Ohio State University's clinical psychology program in Fall 2020. I completed my [firstyear project](https://github.com/jrcalabrese/firstyear) on automated facial expression coding in mother-daughter dyads with Nathaniel Haines.
 
