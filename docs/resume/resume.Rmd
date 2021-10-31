@@ -16,7 +16,14 @@ editor_options:
 Aside
 ================================================================================
 
-![Julianna Calabrese](julianna.jpg){} 
+<!--- ![Julianna Calabrese](julianna.jpg){} --->
+
+About Me {#about}
+--------------------------------------------------------------------------------
+
+I am clinical psychology PhD student at The Ohio State University. My research interests include affective science, quantitative methods, and data visualization. 
+
+For more information or if you are interested in collaboration, please contact me via email or Twitter.
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -30,9 +37,10 @@ Contact Info {#contact}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-Experienced in statistical analysis, data wrangling, and visualization in R and SPSS.
-
-Experienced in project coordination, participant recruitment, and data management. 
++ Statistical analysis in R
++ Data wrangling with tidyverse
++ Research coordination
++ Data visualization
 
 Full CV available upon request. 
 
@@ -45,7 +53,6 @@ Source code [available here](https://github.com/jrcalabrese/jrcalabrese.github.i
 
 Last updated on `r format(Sys.time(), '%B %d, %Y')`.
 
-
 Main
 ================================================================================
 
@@ -53,8 +60,6 @@ Julianna Rose Calabrese {#title}
 --------------------------------------------------------------------------------
 
 ### PhD Student in Clinical Psychology
-
-I am clinical psychology PhD student at The Ohio State University. My research interests include affective science, quantitative methods, and data visualization. For more information or if you are interested in collaboration, please contact me via email or Twitter.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -67,13 +72,18 @@ Columbus, OH
 
 2020 - Present
 
+* Master's Thesis: Parent Emotion Regulation, Parenting Self-Efficacy, and Child Emotion Regulation: The Moderating Role of Coparenting. (WIP)
+* First Year Project: [A Pipeline for Automated Facial Expression Coding.](https://github.com/jrcalabrese/firstyear)
+
 ### Smith College
 
-B.A. in Psychology, cum laude
+B.A. in Psychology, cum laude, highest honors
 
 Northampton, MA
 
 2014 - 2018
+
+* Honors Thesis: [Don’t Take it at Face Value: A Case Study on Facial Expressivity, Emotional Coherence, and Posttraumatic Stress Disorder.](https://scholarworks.smith.edu/theses/1999)
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -86,8 +96,6 @@ Ann Arbor, MI
 
 2018 - 2020
 
-- Coordinated daily research efforts and projects associated with the Study of Adolescent Neural Development (5R01MH103761-04) and the Study of Adolescent to Adult Neural Development (1R01MH121079-01)
-
 ### Honors Student & Lab Member
 
 Smith College
@@ -96,31 +104,16 @@ Northampton, MA
 
 2015 - 2018
 
-- Received highest honors on senior-year thesis on facial expressivity and emotional coherence in a psychotherapy case study
-- [Thesis](https://scholarworks.smith.edu/theses/1999): Don’t Take it at Face Value: A Case Study on Facial Expressivity, Emotional Coherence, and Posttraumatic Stress Disorder
-
-Teaching & Clinical Experience {data-icon=suitcase}
+Clinical Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Grader 
+### Therapist
 
-Smith College
+OSU Psychological Services Center
 
-Northampton, MA
+Columbus, OH
 
-2018
-
-- Research Design & Analysis
-
-### Teaching Assistant
-
-Smith College
-
-Northampton, MA
-
-2017
-
-- Introduction to Psychology
+2021 - Present
 
 ### Clinical Assistant
 
@@ -130,6 +123,27 @@ Hattiesburg, MS
 
 2015
 
--	Conducted clinical duties on pediatric, adult, and geriatric units
-- Worked with nursing staff
-- Maintained confidentiality in accordance with HIPAA
+Teaching Experience {data-icon=table}
+--------------------------------------------------------------------------------
+
+### Course Assistant
+
+The Ohio State University
+
+Columbus, OH
+
+2021 - Present
+
+* Development & Psychopathology
+
+### Teaching Assistant
+
+Smith College
+
+Northampton, MA
+
+2017 - 2018
+
+* Introduction to Psychology
+* Research Design & Analysis
+
