@@ -1,5 +1,6 @@
 ---
 title: "Julianna R. Calabrese"
+site: distill::distill_website
 image: "images/julianna.jpg"
 links:
   - label: Twitter
@@ -8,9 +9,10 @@ links:
     url: "https://github.com/jrcalabrese"
   - label: GoogleScholar
     url: "https://scholar.google.com/citations?user=u3qqDq4AAAAJ&hl=en&oi=ao"
+base_url: https://jrcalabrese.github.io/
 output:
   postcards::jolla
-site: distill::distill_website
+#site: distill::distill_website #_website
 ---
  
 I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods.
