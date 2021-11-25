@@ -59,8 +59,8 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --margin:           0px; /* made this up */
-  --padding-top:      0px; /* made this up */
+  /* --margin:           0px; i made this up */
+  /* --padding-top:      0px; i made this up */
   --title-size:       18px;
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
@@ -77,3 +77,8 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
+
+.distill-site-header{ 
+  padding: 40px 0px;
+}
+
