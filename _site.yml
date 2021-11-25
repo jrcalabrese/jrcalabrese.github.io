@@ -13,14 +13,20 @@ navbar:
       href: index.html
     - text: "Resume"
       href: resume/resume.html
+    - text: "Assessment Tools"
+      menu:
+        - text: "mmpiR"
+          href: https://jrcalabrese.shinyapps.io/mmpiR/
+        - text: "waisR"
+          href: https://jrcalabrese.shinyapps.io/waisR/
+        - text: "cbclR"
+          href: https://jrcalabrese.shinyapps.io/cbclR/
     - text: "Projects"
       menu:
         - text: "#TidyTuesday"
           href: https://github.com/jrcalabrese/TidyTuesday
         - text: "{joycon}"
           href: https://github.com/jrcalabrese/joycon
-        - text: "{mmpiR}"
-          href: https://jrcalabrese.shinyapps.io/mmpiR/
         - text: "Archive"
           href: archive.html
 output: distill::distill_article
