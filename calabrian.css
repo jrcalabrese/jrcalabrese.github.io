@@ -78,6 +78,15 @@ d-appendix {
 
 
 .distill-site-header {
-    position: absolute;
+    height: 50px;
 }
 
+.distill-site-header .title {
+position: static;
+transform: translateY(-70%);
+}
+
+.distill-site-header .nav-right {
+    top: 25%;
+    position: stattic;
+}
