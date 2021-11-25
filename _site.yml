@@ -3,8 +3,7 @@ title: "Julianna R. Calabrese"
 base_url: https://jrcalabrese.github.io/
 twitter:
   site: "@jrosecalabrese"
-description: |
-  My Website
+#description: | My Website
 output_dir: "docs"
 theme: theme.css 
 navbar:
