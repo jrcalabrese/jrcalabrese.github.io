@@ -8,7 +8,7 @@ description: |
 output_dir: "docs"
 theme: calabrian.css 
 navbar:
-  #right:
+  right:
     - text: "Home"
       href: index.html
     - text: "Resume"
