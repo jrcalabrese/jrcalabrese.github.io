@@ -6,7 +6,7 @@ twitter:
 description: |
   My Website
 output_dir: "docs"
-theme: calabrian.css 
+theme: theme.css 
 navbar:
   right:
     - text: "Home"
