@@ -10,8 +10,8 @@ links:
     url: "https://scholar.google.com/citations?user=u3qqDq4AAAAJ&hl=en&oi=ao"
 base_url: https://jrcalabrese.github.io/
 site: distill::distill_website
-#output: postcards::jolla
-theme: theme.css
+output: postcards::jolla
+theme: calabrian.css
 ---
  
 I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods.

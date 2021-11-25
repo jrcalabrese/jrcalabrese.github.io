@@ -76,4 +76,6 @@ d-appendix {
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
-
+#header h1{
+    margin:0px;
+}
