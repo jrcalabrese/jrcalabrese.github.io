@@ -76,3 +76,8 @@ d-appendix {
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
+
+.distill-site-header {
+    position: absolute;
+}
+
