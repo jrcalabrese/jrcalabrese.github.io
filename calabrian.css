@@ -91,7 +91,3 @@ transform: translateY(-70%);
     position: static;
 }
 
-.main-header {
-  position: fixed;
-  width:100%;
-}
