@@ -5,28 +5,28 @@
       "title": "404: Page not found",
       "author": [],
       "contents": "\nSorry, something messed up. Please click here to go back to the homepage.\nIf you clicked on something and expected something different than this 404 page, please DM me on Twitter and let me know what happened.\n\n\n\n\n\n\n\n",
-      "last_modified": "2021-11-25T13:06:47-05:00"
+      "last_modified": "2021-11-25T13:09:00-05:00"
     },
     {
       "path": "archive.html",
       "title": "Archive",
       "author": [],
       "contents": "\nHere is an archive of R cheatsheets and presentations I made when I was a postbacc at the University of Michigan. The presentations will download as a .pptx file.\nMost of the cheatsheets are old and were made when I didn’t know R as well as I do now, but I still like them. I might try to make updated versions in the future.\nCheatsheet\nDate Created\nThe Basics of Data Wrangling\nSeptember 17, 2019\nA Very Short Review of ggplot2\nApril 8, 2019\nTaDLab’s Guide to Making Pretty RMarkdown Documents\nMarch 19, 2019\nLearning R\nNovember 7, 2018\nPresentation\nDate Created\nHow to Apply to Graduate School in Psychology\nFebruary 12, 2020\nClinical Interviewing with the SCID-5\nOctober 16, 2019\nIntroduction to Statistics, R, and RStudio\nOctober 2, 2019\n\n\n\n",
-      "last_modified": "2021-11-25T13:06:48-05:00"
+      "last_modified": "2021-11-25T13:09:01-05:00"
     },
     {
       "path": "index.html",
       "title": "Julianna R. Calabrese",
       "author": [],
-      "contents": "\nI am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods.\n\n\n\n",
-      "last_modified": "2021-11-25T13:06:49-05:00"
+      "contents": "\n\n          \n          \n          Julianna R. Calabrese\n          \n          \n          Home\n          Resume\n          \n          \n          Projects\n           \n          ▾\n          \n          \n          #TidyTuesday\n          {joycon}\n          {mmpiR}\n          Archive\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Julianna R. Calabrese\n          \n          \n            \n              I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods.\n            \n            \n              I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      GoogleScholar\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    GoogleScholar\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n          © Julianna Calabrese 2021 | Website created with {distill} and {postcards}\n          \n          \n\n    \n  ",
+      "last_modified": "2021-11-25T13:09:01-05:00"
     },
     {
       "path": "research.html",
       "title": "Research",
       "author": [],
       "contents": "\nAs an undergraduate at Smith College, I was a member of Dr. Nnamdi Pole’s lab. I completed my senior thesis on facial expressivity, emotional coherence, and PTSD in a psychotherapy case study.\nAfter graduating, I joined Dr. Christoper Monk’s lab as a postbacc lab manager and coordinated study efforts with the Study of Adolescent Neural Development (SAND), a substudy of the Fragile Families and Child Wellbeing Study. I am currently writing a paper on ventral striatum connectivity and reward processing in the SAND sample; we hope to submit it to Brain Research soon.\nI joined The Ohio State University’s clinical psychology program in Fall 2020. I completed my firstyear project on automated facial expression coding in mother-daughter dyads with Nathaniel Haines.\nBroadly speaking, I am interested in affective science and emotion regulation in clinical populations. I am happiest when working with big datasets that need carpentry and visualization. Please contact me via email or Twitter if you are interested in collaboration.\n\n\n\n",
-      "last_modified": "2021-11-25T13:06:50-05:00"
+      "last_modified": "2021-11-25T13:09:02-05:00"
     }
   ],
   "collections": []

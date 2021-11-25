@@ -90,3 +90,8 @@ transform: translateY(-70%);
     top: 25%;
     position: static;
 }
+
+.main-header {
+  position: fixed;
+  width:100%;
+}
