@@ -1,0 +1,149 @@
+---
+title: "Julianna Calabrese's resume"
+author: Julianna Rose Calabrese
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    css: ['calabrian_resume.css', 'resume']
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+editor_options: 
+  chunk_output_type: console
+---
+
+Aside
+================================================================================
+
+<!--- ![Julianna Calabrese](julianna.jpg){} --->
+
+About Me {#about}
+--------------------------------------------------------------------------------
+
+I am clinical psychology PhD student at The Ohio State University. My research interests include affective science, quantitative methods, and data visualization. 
+
+For more information or if you are interested in collaboration, please contact me via email or Twitter.
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> [jrc.contactme@gmail.com](jrc.contactme@gmail.com)
+- <i class="fa fa-link"></i> [jrcalabrese.github.io](https://jrcalabrese.github.io/)
+- <i class="fa fa-github"></i> [github.com/jrcalabrese](https://github.com/jrcalabrese)
+- <i class="fa fa-twitter"></i> [`@jrosecalabrese`](https://twitter.com/jrosecalabrese)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
++ Statistical analysis in R
++ Data wrangling with tidyverse
++ Research coordination
++ Data visualization
+
+Full CV available upon request. 
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Resume created with [**pagedown**](https://github.com/rstudio/pagedown). 
+
+Source code [available here](https://github.com/jrcalabrese/jrcalabrese.github.io/blob/main/resume/resume.Rmd).
+
+Last updated on `r format(Sys.time(), '%B %d, %Y')`.
+
+Main
+================================================================================
+
+Julianna Rose Calabrese {#title}
+--------------------------------------------------------------------------------
+
+### PhD Student in Clinical Psychology
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### The Ohio State University
+
+Ph.D. in Clinical Psychology
+
+Columbus, OH
+
+2020 - Present
+
+* Master's Thesis: Parent Emotion Regulation, Parenting Self-Efficacy, and Child Emotion Regulation: The Moderating Role of Coparenting. (WIP)
+* First Year Project: [A Pipeline for Automated Facial Expression Coding.](https://github.com/jrcalabrese/firstyear)
+
+### Smith College
+
+B.A. in Psychology, cum laude, highest honors
+
+Northampton, MA
+
+2014 - 2018
+
+* Honors Thesis: [Don’t Take it at Face Value: A Case Study on Facial Expressivity, Emotional Coherence, and Posttraumatic Stress Disorder.](https://scholarworks.smith.edu/theses/1999)
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Research Coordinator
+
+University of Michigan
+
+Ann Arbor, MI
+
+2018 - 2020
+
+### Honors Student & Lab Member
+
+Smith College
+
+Northampton, MA
+
+2015 - 2018
+
+Clinical Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Therapist
+
+OSU Psychological Services Center
+
+Columbus, OH
+
+2021 - Present
+
+### Clinical Assistant
+
+Pine Grove Behavioral Health & Addiction Services
+
+Hattiesburg, MS
+
+2015
+
+Teaching Experience {data-icon=table}
+--------------------------------------------------------------------------------
+
+### Course Assistant
+
+The Ohio State University
+
+Columbus, OH
+
+2021 - Present
+
+* Development & Psychopathology
+
+### Teaching Assistant
+
+Smith College
+
+Northampton, MA
+
+2017 - 2018
+
+* Introduction to Psychology
+* Research Design & Analysis
+
