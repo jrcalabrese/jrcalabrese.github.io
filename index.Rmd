@@ -1,6 +1,6 @@
 ---
 title: "Julianna R. Calabrese"
-image: "images/julianna.jpg"
+image: images/julianna.jpg
 links:
   - label: Twitter
     url: "https://twitter.com/jrosecalabrese"
@@ -9,6 +9,7 @@ links:
   - label: GoogleScholar
     url: "https://scholar.google.com/citations?user=u3qqDq4AAAAJ&hl=en&oi=ao"
 base_url: https://jrcalabrese.github.io/
+preview: images/julianna.jpg
 site: distill::distill_website
 output: postcards::jolla
 ---
