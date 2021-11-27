@@ -1,12 +1,12 @@
 name: "jrcalabrese.github.io"
 title: "Julianna R. Calabrese"
 base_url: https://jrcalabrese.github.io/
-#repository_url: https://github.com/jrcalabrese/jrcalabrese.github.io
+repository_url: https://github.com/jrcalabrese/jrcalabrese.github.io
 twitter:
   site: "@jrosecalabrese"
 description: |
   My Website
-output_dir: "docs"
+output_dir: "docs" #noeditpls
 theme: calabrian.css 
 navbar:
   right:
