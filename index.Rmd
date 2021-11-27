@@ -11,7 +11,7 @@ links:
 base_url: https://jrcalabrese.github.io/
 preview: images/julianna.jpg
 site: distill::distill_website
-output: postcards::jolla
+output: postcards::trestles
 ---
  
-I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods. test.
+I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods. test2
