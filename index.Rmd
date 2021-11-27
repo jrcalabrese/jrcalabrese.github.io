@@ -26,7 +26,7 @@ meta() %>%
     title = "Julianna Calabrese",
     url = "https://jrcalabrese.github.io/",
     image = "https://github.com/jrcalabrese/jrcalabrese.github.io/blob/main/images/julianna.jpg",
-    #image_alt = "Image of me",
+    image_alt = "Image of me",
     og_type = "website",
     og_author = c("Julianna Calabrese"),
     twitter_card_type = "summary",
