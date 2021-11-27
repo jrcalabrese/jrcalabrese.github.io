@@ -25,7 +25,7 @@ meta() %>%
   meta_social(
     title = "Julianna Calabrese",
     url = "https://jrcalabrese.github.io/",
-    #image = images/julianna.jpg,
+    image = "https://github.com/jrcalabrese/jrcalabrese.github.io/blob/main/images/julianna.jpg",
     #image_alt = "Image of me",
     og_type = "website",
     og_author = c("Julianna Calabrese"),
@@ -34,4 +34,4 @@ meta() %>%
   )
 ```
  
-I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methodssss.
+I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods. test4.
