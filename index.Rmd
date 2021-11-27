@@ -13,5 +13,25 @@ preview: images/julianna.jpg
 site: distill::distill_website
 output: postcards::trestles
 ---
+
+```{r setup, message=FALSE, warning=FALSE, include=FALSE}
+library(metathis)
+meta() %>%
+  meta_description(
+    "Julianna Calabrese's personal website."
+  ) %>% 
+  meta_name("github-repo" = "jrcalabrese/jrcalabrese.github.io") %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "Julianna Calabrese",
+    url = "https://jrcalabrese.github.io/",
+    #image = images/julianna.jpg,
+    #image_alt = "Image of me",
+    og_type = "website",
+    og_author = c("Julianna Calabrese"),
+    twitter_card_type = "summary",
+    twitter_creator = "@jrosecalabrese"
+  )
+```
  
-I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods. test2
+I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methodssss.
