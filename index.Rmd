@@ -9,9 +9,9 @@ links:
   - label: GoogleScholar
     url: "https://scholar.google.com/citations?user=u3qqDq4AAAAJ&hl=en&oi=ao"
 base_url: https://jrcalabrese.github.io/
-preview: images/julianna.jpg
+output:
+  postcards::trestles
 site: distill::distill_website
-output: postcards::trestles
 ---
 
 ```{r setup, message=FALSE, warning=FALSE, include=FALSE}
@@ -53,4 +53,4 @@ cat(paste(trestles_mod, collapse = "\n"), file = system.file("pandoc_templates/t
               package = "postcards"))
 ```
 
-I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods. test3.
+I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods. test4.
