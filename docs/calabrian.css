@@ -87,3 +87,16 @@ d-appendix {
 }
 
 body { margin:0; padding: 0; }
+
+/* Buttons on home page */
+
+.btn-outline-dark {
+    background-color: #6c7d51;
+    color: #fff;
+    border: 0px;
+}
+
+.btn-outline-dark:hover {
+    background-color: #98A485;
+}
+
