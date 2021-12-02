@@ -14,14 +14,14 @@ navbar:
       href: index.html
     - text: "Resume"
       href: resume/resume.html
-    - text: "Assessment Tools"
-      menu:
-        - text: "mmpiR"
-          href: https://jrcalabrese.shinyapps.io/mmpiR/
-        - text: "waisR"
-          href: https://jrcalabrese.shinyapps.io/waisR/
-        - text: "cbclR"
-          href: https://jrcalabrese.shinyapps.io/cbclR/
+    #- text: "Assessment Tools"
+      #menu:
+        #- text: "mmpiR"
+        #  href: https://jrcalabrese.shinyapps.io/mmpiR/
+        #- text: "waisR"
+        #  href: https://jrcalabrese.shinyapps.io/waisR/
+        #- text: "cbclR"
+        #  href: https://jrcalabrese.shinyapps.io/cbclR/
     - text: "Projects"
       menu:
         - text: "#TidyTuesday"
