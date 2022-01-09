@@ -10,7 +10,7 @@ links:
     url: "https://scholar.google.com/citations?user=u3qqDq4AAAAJ&hl=en&oi=ao"
 base_url: https://jrcalabrese.github.io/
 output:
-  postcards::trestles
+  postcards::jolla
 site: distill::distill_website
 ---
 
@@ -34,4 +34,4 @@ meta() %>%
   )
 ```
 
-I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation, facial affective behavior, and quantitative methods.
+I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation and facial affective behavior. I am a member of the [Children and Parents Lab](https://u.osu.edu/caplab/) at OSU under Dr. Sarah Schoppe-Sullivan. 

@@ -1,27 +1,27 @@
 name: "jrcalabrese.github.io"
 title: "Julianna R. Calabrese"
 base_url: https://jrcalabrese.github.io/
-repository_url: https://github.com/jrcalabrese/jrcalabrese.github.io
+#repository_url: https://github.com/jrcalabrese/jrcalabrese.github.io
 twitter:
   site: "@jrosecalabrese"
 description: |
   My Website
-output_dir: "docs" #noeditpls
-theme: calabrian.css 
+output_dir: "docs" # don't edit this
+theme: custom.css 
 navbar:
   right:
     - text: "Home"
       href: index.html
     - text: "Resume"
       href: resume/resume.html
-    #- text: "Assessment Tools"
-      #menu:
-        #- text: "mmpiR"
-        #  href: https://jrcalabrese.shinyapps.io/mmpiR/
-        #- text: "waisR"
-        #  href: https://jrcalabrese.shinyapps.io/waisR/
-        #- text: "cbclR"
-        #  href: https://jrcalabrese.shinyapps.io/cbclR/
+    - text: "Shiny Apps"
+      menu:
+        - text: "mmpiR"
+          href: https://jrcalabrese.shinyapps.io/mmpiR/
+        - text: "waisR"
+          href: https://jrcalabrese.shinyapps.io/waisR/
+        - text: "cbclR"
+          href: https://jrcalabrese.shinyapps.io/cbclR/
     - text: "Projects"
       menu:
         - text: "#TidyTuesday"

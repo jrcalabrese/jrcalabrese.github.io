@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca|Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+h1 {
+font-family: 'Montserrat', sans-serif;
+color: #3a4920; /* make your name dark olive green */
+}
+
+:root {
+  --sidebar-background-color: #eef3e5; /* Make sidebar very very light green */
+ --sidebar-width: 13rem; 
+  font-size: 16px;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+ 	font-weight: 600;
+	font-size: 1.1em;
+	color: #36441d; /* make font black */
+	text-transform: uppercase;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+  	font-weight: 500;
+  	color: #36441d; /* make the headers dark green */
+}
+
+/* Main text*/
+body {
+  font-family: "Source Sans Pro", sans-serif; 
+  font-weight: 400;
+  line-height: 1.1rem;
+  color: #444;
+}
+
+
+.aside ul {
+	padding-left: 0.2rem;
+}
+
