@@ -102,3 +102,9 @@ body { margin:0; padding: 0; }
     background-color: #98A485;
 }
 
+main {
+padding-bottom: 300px;
+margin:0 auto;
+position: relative;
+width: 960px;
+} 
