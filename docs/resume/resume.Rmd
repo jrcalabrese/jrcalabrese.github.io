@@ -21,7 +21,7 @@ Aside
 About Me {#about}
 --------------------------------------------------------------------------------
 
-I am clinical psychology PhD student at The Ohio State University. My research interests include affective science, quantitative methods, and data visualization. 
+I am a clinical psychology PhD student at The Ohio State University. My research interests include affective science and data visualization. 
 
 For more information or if you are interested in collaboration, please contact me via email or Twitter.
 
