@@ -71,7 +71,6 @@ d-appendix {
   --bkgd-color:       #52682d;
   --position: relative;
   --bottom: 20px;
-
 }
 
 .distill-site-footer {
@@ -92,7 +91,9 @@ d-appendix {
   font-weight: 400;
 }
 
-body { margin:0; padding: 0; }
+body { 
+  margin:0; 
+  padding: 0; }
 
 /* Buttons on home page */
 

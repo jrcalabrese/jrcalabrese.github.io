@@ -46,7 +46,7 @@ Doctorate of Philosophy in Psychology
 Bachelors of Arts in Psychology
 <p style="font-size: 14px">Smith College, Northampton, MA, 2014 - 2018 </p>
 
-```{css, message=FALSE, warning=FALSE, include=FALSE}
+```{css, echo=FALSE}
 html, body {
     height: 100%;
 }
