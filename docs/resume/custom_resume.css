@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Lexend+Deca|Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Halant&display=swap');
 
 h1 {
-font-family: 'Montserrat', sans-serif;
+font-family: 'Halant', sans-serif;
 color: #3a4920; /* make your name dark olive green */
 }
 
@@ -14,7 +15,7 @@ color: #3a4920; /* make your name dark olive green */
 }
 
 h2{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Halant', sans-serif;
  	font-weight: 600;
 	font-size: 1.1em;
 	color: #36441d; /* make font black */
@@ -22,7 +23,7 @@ h2{
 }
 
 h3{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Halant', sans-serif;
   	font-weight: 500;
   	color: #36441d; /* make the headers dark green */
 }
