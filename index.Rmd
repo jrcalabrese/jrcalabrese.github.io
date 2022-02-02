@@ -1,7 +1,6 @@
 ---
 title: "Julianna R. Calabrese"
 image: images/julianna.jpg
-leftsize: 8
 links:
   - label: Twitter
     url: "https://twitter.com/jrosecalabrese"
@@ -10,9 +9,9 @@ links:
   - label: GoogleScholar
     url: "https://scholar.google.com/citations?user=u3qqDq4AAAAJ&hl=en&oi=ao"
 base_url: https://jrcalabrese.github.io/
-site: distill::distill_website
 output:
   postcards::trestles
+site: distill::distill_website
 ---
 
 ```{r setup, message=FALSE, warning=FALSE, include=FALSE}
@@ -41,24 +40,10 @@ I am a graduate student in the Clinical Psychology Program at The Ohio State Uni
 
 ## Education
 
-Doctorate of Philosophy in Psychology
-<p style="font-size: 14px">The Ohio State University, Columbus, OH, 2020 - Present</p>
+Doctorate of Philosophy in Psychology | 2020 - Present
 
-Bachelors of Arts in Psychology
-<p style="font-size: 14px">Smith College, Northampton, MA, 2014 - 2018 </p>
+The Ohio State University, Columbus, OH
 
-```{css, echo=FALSE}
-html, body {
-    height: 100%;
-}
+Bachelors of Arts in Psychology | 2014 - 2018
 
-html {
-    display: table;
-    margin: auto;
-}
-
-body {
-    display: table-cell;
-    vertical-align: middle;
-}
-```
+Smith College, Northampton, MA

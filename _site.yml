@@ -1,13 +1,13 @@
 name: "jrcalabrese.github.io"
 title: "Julianna R. Calabrese"
-theme: custom.css
 base_url: https://jrcalabrese.github.io/
 #repository_url: https://github.com/jrcalabrese/jrcalabrese.github.io
 twitter:
   site: "@jrosecalabrese"
 description: |
   My Website
-output_dir: "_site" # don't edit this- update i did it, it was originally docs
+output_dir: "docs" # don't edit this
+theme: custom.css 
 navbar:
   right:
     - text: "Home"
@@ -30,5 +30,4 @@ navbar:
           href: https://github.com/jrcalabrese/joycon
         - text: "Archive"
           href: archive.html
-output: 
-  distill::distill_article
+output: distill::distill_article
