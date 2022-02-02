@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
 
 
+
 /* base variables */
 
 /* Edit the CSS properties in this file to create a custom
@@ -15,6 +16,8 @@
 
 /* Optional: embed custom fonts here with `@import`          */
 /* This must remain at the top of this file.                 */
+
+
 
 html {
   /*-- Main font sizes --*/
@@ -40,7 +43,11 @@ html {
 d-byline {
   --heading-size:    0.6rem;
   --heading-color:   rgba(0, 0, 0, 0.5);
+<<<<<<< HEAD
   --body-size:       0.8rem; /*idk what this do, it was originally 0.8 */
+=======
+  --body-size:       0.8rem;
+>>>>>>> parent of db0c5e3 (edit css)
   --body-color:      rgba(0, 0, 0, 0.8);
 }
 
