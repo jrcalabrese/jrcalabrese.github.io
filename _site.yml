@@ -7,7 +7,8 @@ twitter:
   site: "@jrosecalabrese"
 description: |
   My Website
-output_dir: "_site" # don't edit this- update i did it, it was originally docs
+output_dir: "docs" # don't edit this
+theme: custom.css 
 navbar:
   right:
     - text: "Home"
