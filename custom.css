@@ -91,8 +91,17 @@ d-appendix {
   font-weight: 400;
 }
 
+/* what does this do.... idk*/
+main {
+   padding-bottom: 300px;
+   margin:0 auto;
+   position: relative;
+   width: 960px;
+} 
+
+
 body { 
-  margin:0; 
+  margin:0 auto; 
   padding: 0; }
 
 /* Buttons on home page */
@@ -106,11 +115,3 @@ body {
 .btn-outline-dark:hover {
     background-color: #98A485;
 }
-
-/* what does this do.... idk*/
-main {
-   padding-bottom: 300px;
-   margin:0 auto;
-   position: relative;
-   width: 960px;
-} 
