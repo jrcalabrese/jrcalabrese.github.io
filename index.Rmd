@@ -10,7 +10,7 @@ links:
     url: "https://scholar.google.com/citations?user=u3qqDq4AAAAJ&hl=en&oi=ao"
 base_url: https://jrcalabrese.github.io/
 output:
-  postcards::trestles
+  postcards::solana
 site: distill::distill_website
 ---
 
