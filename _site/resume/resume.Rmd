@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
-    css: ['calabrian_resume.css', 'resume']
+    css: ['custom_resume.css', 'resume']
     self_contained: true
 # uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
@@ -16,40 +16,29 @@ editor_options:
 Aside
 ================================================================================
 
-<!--- ![Julianna Calabrese](julianna.jpg){} --->
+![Julianna Calabrese](julianna.jpg){width=80% style='border-radius: 50%;'}
 
 About Me {#about}
 --------------------------------------------------------------------------------
 
-I am clinical psychology PhD student at The Ohio State University. My research interests include affective science, quantitative methods, and data visualization. 
+I am a clinical psychology PhD student at The Ohio State University. My research interests include affective science and data visualization. 
 
 For more information or if you are interested in collaboration, please contact me via email or Twitter.
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> [jrc.contactme@gmail.com](jrc.contactme@gmail.com)
+- <i class="fa fa-envelope"></i> [calabrese.75@osu.edu](calabrese.75@osu.edu)
 - <i class="fa fa-link"></i> [jrcalabrese.github.io](https://jrcalabrese.github.io/)
 - <i class="fa fa-github"></i> [github.com/jrcalabrese](https://github.com/jrcalabrese)
 - <i class="fa fa-twitter"></i> [`@jrosecalabrese`](https://twitter.com/jrosecalabrese)
 
-
-Skills {#skills}
---------------------------------------------------------------------------------
-
-+ Statistical analysis in R
-+ Data wrangling with tidyverse
-+ Research coordination
-+ Data visualization
-
-Full CV available upon request. 
-
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-Resume created with [**pagedown**](https://github.com/rstudio/pagedown). 
+Code available on [Github](https://github.com/jrcalabrese/jrcalabrese.github.io/blob/main/resume/resume.Rmd). 
 
-Source code [available here](https://github.com/jrcalabrese/jrcalabrese.github.io/blob/main/resume/resume.Rmd).
+This resume was created with the [**pagedown**](https://github.com/rstudio/pagedown) package. 
 
 Last updated on `r format(Sys.time(), '%B %d, %Y')`.
 
@@ -72,7 +61,7 @@ Columbus, OH
 
 2020 - Present
 
-* Master's Thesis: Parent Emotion Regulation, Parenting Self-Efficacy, and Child Emotion Regulation: The Moderating Role of Coparenting. (WIP)
+* Master's Thesis: Parent Emotion Regulation, Parenting Self-Efficacy, and Child Emotion Regulation: The Moderating Role of Coparenting.
 * First Year Project: [A Pipeline for Automated Facial Expression Coding.](https://github.com/jrcalabrese/firstyear)
 
 ### Smith College
@@ -134,7 +123,8 @@ Columbus, OH
 
 2021 - Present
 
-* Development & Psychopathology
+* Fall 2021: Development & Psychopathology, Psychology of Addiction, Counseling Psychology
+* Spring 2022: Psychology of Personal Security, Clinical Psychological Science
 
 ### Teaching Assistant
 
@@ -144,6 +134,4 @@ Northampton, MA
 
 2017 - 2018
 
-* Introduction to Psychology
-* Research Design & Analysis
-
+* Introduction to Psychology, Research Design & Analysis
