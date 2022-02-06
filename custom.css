@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Halant&display=swap');
 
-
 /* base variables */
 
 /* Edit the CSS properties in this file to create a custom
@@ -14,8 +13,6 @@
 
 /* Optional: embed custom fonts here with `@import`          */
 /* This must remain at the top of this file.                 */
-
-
 
 html {
   /*-- Main font sizes --*/
@@ -67,7 +64,7 @@ d-appendix {
   /* --padding-top:      0px; i made this up */
   --title-size:       18px;
   --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
+  --text-size:        18px; #15
   --hover-color:      white;
   --bkgd-color:       #52682d;
 }

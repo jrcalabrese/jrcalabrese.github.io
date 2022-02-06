@@ -38,12 +38,10 @@ meta() %>%
 
 I am a graduate student in the Clinical Psychology Program at The Ohio State University. My research interests include emotion regulation and facial affective behavior. I am a member of the [Children and Parents Lab](https://u.osu.edu/caplab/) under Dr. Sarah Schoppe-Sullivan. 
 
-## Education
+## Education{data-icon=graduation-cap data-concise=true}
 
-Doctorate of Philosophy in Psychology | 2020 - Present
+Doctorate of Philosophy in Psychology, 2020 - Present
+<p style="font-size: 14px">The Ohio State University, Columbus, OH</p>
 
-The Ohio State University, Columbus, OH
-
-Bachelors of Arts in Psychology | 2014 - 2018
-
-Smith College, Northampton, MA
+Bachelors of Arts in Psychology, 2014 - 2018
+<p style="font-size: 14px">Smith College, Northampton, MA</p>
