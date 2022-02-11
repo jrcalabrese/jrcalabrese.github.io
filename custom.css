@@ -62,9 +62,9 @@ d-appendix {
 .distill-site-header {
   /* --margin:           0px; i made this up */
   /* --padding-top:      0px; i made this up */
-  --title-size:       18px;
+  --title-size:       16px;
   --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        18px; #15
+  --text-size:        16px;
   --hover-color:      white;
   --bkgd-color:       #52682d;
 }

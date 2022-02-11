@@ -14,7 +14,15 @@ navbar:
       href: index.html
     - text: "Resume"
       href: resume/resume.html
-    - text: "Shiny Apps"
+    - text: "Packages"
+      menu:
+        - text: "{joycon}"
+          href: https://github.com/jrcalabrese/joycon
+        - text: "{tablecloth}"
+          href: https://github.com/jrcalabrese/tablecloth
+        - text: "{faceup}"
+          href: https://github.com/jrcalabrese/faceup
+    - text: "Shiny"
       menu:
         - text: "mmpiR"
           href: https://jrcalabrese.shinyapps.io/mmpiR/
@@ -22,12 +30,10 @@ navbar:
           href: https://jrcalabrese.shinyapps.io/waisR/
         - text: "cbclR"
           href: https://jrcalabrese.shinyapps.io/cbclR/
-    - text: "Projects"
+    - text: "Other"
       menu:
         - text: "#TidyTuesday"
           href: https://github.com/jrcalabrese/TidyTuesday
-        - text: "{joycon}"
-          href: https://github.com/jrcalabrese/joycon
-        - text: "Archive"
+        - text: "archive"
           href: archive.html
 output: distill::distill_article
