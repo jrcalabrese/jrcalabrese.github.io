@@ -35,7 +35,7 @@ navbar:
         - text: "#TidyTuesday"
           href: https://github.com/jrcalabrese/TidyTuesday
         - text: "PSYCH 7823 Cheatsheet"
-          href: resources/repeat.html
+          href: repeat.html
         - text: "Archive"
           href: archive.html
-output: distill::distill_article
+#output: distill::distill_article
