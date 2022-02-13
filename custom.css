@@ -44,7 +44,7 @@ d-byline {
 
 /*-- ARTICLE TABLE OF CONTENTS --*/
 .d-contents {
-  --heading-size:    18px;
+  --heading-size:    15px;
   --contents-size:   13px;
 }
 
@@ -60,9 +60,9 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
+  --title-size:       15px;
   --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        18px;
+  --text-size:        15px;
   --hover-color:      white;
   --bkgd-color:       #52682d;
 }
