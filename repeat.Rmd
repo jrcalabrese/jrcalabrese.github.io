@@ -50,7 +50,7 @@ set.seed(123)
 
 ## Diagrams
 
-
+**When you make diagrams, put them here!**
 
 # Regression
 
