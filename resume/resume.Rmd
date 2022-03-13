@@ -1,137 +1,88 @@
 ---
-title: "Julianna Calabrese's resume"
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: resume_template.tex
+geometry: margin=0.5in
+
+title: "CV"
 author: Julianna Rose Calabrese
-date: "`r Sys.Date()`"
-output:
-  pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
-    css: ['custom_resume.css', 'resume']
-    self_contained: true
-# uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
-editor_options: 
-  chunk_output_type: console
+jobtitle: "Graduate Student in Clinical Psychology"
+address: "225 Psychology Building, 1835 Neil Avenue, The Ohio State University, Columbus, OH 43210"
+#email: "calabrese.75@osu.edu"
+github: jrcalabrese
+twitter: jrosecalabrese
+#orcid: 0000-0003-1010-2951
+#web: jrcalabrese.github.io
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%B %d, %Y')`"
+
+fontawesome: yes
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
 ---
 
-Aside
-================================================================================
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
 
-![Julianna Calabrese](julianna.jpg){width=80% style='border-radius: 50%;'}
+# EDUCATION
 
-About Me {#about}
---------------------------------------------------------------------------------
-
-I am a clinical psychology PhD student at The Ohio State University. My research interests include affective science and data visualization. 
-
-For more information or if you are interested in collaboration, please contact me on Twitter.
-
-Contact Info {#contact}
---------------------------------------------------------------------------------
-
-- <i class="fa fa-envelope"></i> [calabrese.75@osu.edu](calabrese.75@osu.edu)
-- <i class="fa fa-link"></i> [jrcalabrese.github.io](https://jrcalabrese.github.io/)
-- <i class="fa fa-github"></i> [github.com/jrcalabrese](https://github.com/jrcalabrese)
-- <i class="fa fa-twitter"></i> [`@jrosecalabrese`](https://twitter.com/jrosecalabrese)
-
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
-Code available on [Github](https://github.com/jrcalabrese/jrcalabrese.github.io/blob/main/resume/resume.Rmd). 
-
-This resume was created with the [**pagedown**](https://github.com/rstudio/pagedown) package. 
-
-Last updated on `r format(Sys.time(), '%B %d, %Y')`.
-
-Main
-================================================================================
-
-Julianna Rose Calabrese {#title}
---------------------------------------------------------------------------------
-
-### PhD Student in Clinical Psychology
-
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-### The Ohio State University
-
-Ph.D. in Clinical Psychology
-
+**The Ohio State University**, Ph.D. in Clinical Psychology \hfill 2020–Present  
 Columbus, OH
 
-2020 - Present
-
-* Master's Thesis: Parent Emotion Regulation, Parenting Self-Efficacy, and Child Emotion Regulation: The Moderating Role of Coparenting.
-* First Year Project: [A Pipeline for Automated Facial Expression Coding.](https://github.com/jrcalabrese/firstyear)
-
-### Smith College
-
-B.A. in Psychology, cum laude, highest honors
-
+**Smith College**, B.A. in Psychology \hfill 2014–2018  
 Northampton, MA
 
-2014 - 2018
+# RESEARCH PROJECTS
 
-* Honors Thesis: [Don’t Take it at Face Value: A Case Study on Facial Expressivity, Emotional Coherence, and Posttraumatic Stress Disorder.](https://scholarworks.smith.edu/theses/1999)
+**Calabrese, J. R.**, Goetschius, L. G., Murray, L., Kaplan, M. R., Lopez-Duran, N., Mitchell, C., Hyde, L. W., & Monk, C. S. (2022). Mapping frontostriatal white matter tracts and their association with reward-related ventral striatum activation in adolescence. *Brain Research, 1780*. https://doi.org/10.1016/j.brainres.2022.147803
 
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
+**Calabrese, J. R.** (2018). Don’t Take it at Face Value: A Case Study on Facial Expressivity, 
+Emotional Coherence, and Posttraumatic Stress Disorder. *Theses, Dissertations, and Projects, 1999*. https://scholarworks.smith.edu/theses/1999
 
-### Research Coordinator
+**Calabrese, J. R.**, Brown, M., & Sacco, D.F. (2016). Casting a Wary Eye: Individuals Higher in Dispositional Distrust Demonstrate More Accurate Discrimination of Trustworthy and Untrustworthy Faces. *Evolutionary Psychological Science, 3*(1), 34–39. https://doi.org/10.1007/s40806-016-0072-6
 
-University of Michigan
+# RESEARCH EXPERIENCE
 
-Ann Arbor, MI
+**Research Coordinator**  
+Translational & Developmental Neuroscience Laboratory, University of Michigan \hfill July 2018–May 2020  
+Supervisor: Christopher Monk, Ph.D.   \hfill Ann Arbor, MI  
 
-2018 - 2020
+**Honors Student**  
+PTSD & Traumatic Studies Lab, Smith College \hfill September 2017–May 2018  
+Advisor: Nnamdi Pole, Ph.D.  \hfill Northampton, MA  
 
-### Honors Student & Lab Member
+# CLINICAL EXPERIENCE
 
-Smith College
+**Therapist**  
+Psychological Services Center, The Ohio State University \hfill September 2021–May 2022   
+Supervisor: Anne Holmes, Ph.D.  \hfill Columbus, OH  
 
-Northampton, MA
+# TEACHING EXPERIENCE
 
-2015 - 2018
+**Course Assistant**  
+Clinical Psychological Science, Psychology of Personal Security \hfill January 2022–May 2022  
+The Ohio State University \hfill Columbus, OH  
+Professors: Michael Vasey, Ph.D., Steven Bengal, Ph.D.  
 
-Clinical Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
+**Course Assistant**  
+Development & Psychopathology, Psychology of Addiction, Counseling Psychology \hfill September 2021–December 2021  
+The Ohio State University \hfill Columbus, OH  
+Professors: Lisa Cravens-Brown, Ph.D., Todd Kays, Ph.D.   
 
-### Therapist
+# HONORS & AWARDS
 
-OSU Psychological Services Center
+* Edward E. Hayes Graduate Research Award, Social and Behavioral Sciences 3rd Place poster presentation, $100 (2022)
+* College of Arts and Sciences Division of Social and Behavioral Sciences Scholarship, The Ohio State University (2020) 
+* William Sentman Taylor Award, Smith College, $500 (2018)
+* Smith College Dean’s List (2015–2016, 2017–2018)
 
-Columbus, OH
+# PROFESSIONAL AFFLIATIONS
 
-2021 - Present
-
-### Clinical Assistant
-
-Pine Grove Behavioral Health & Addiction Services
-
-Hattiesburg, MS
-
-2015
-
-Teaching Experience {data-icon=table}
---------------------------------------------------------------------------------
-
-### Course Assistant
-
-The Ohio State University
-
-Columbus, OH
-
-2021 - Present
-
-* Fall 2021: Development & Psychopathology, Psychology of Addiction, Counseling Psychology
-* Spring 2022: Psychology of Personal Security, Clinical Psychological Science
-
-### Teaching Assistant
-
-Smith College
-
-Northampton, MA
-
-2017 - 2018
-
-* Introduction to Psychology, Research Design & Analysis
+* Phi Beta Kappa, Academic Honor Society (May 2018–Present)
+* Mu Sigma Rho, the National Honorary Society for Statistics (May 2018–Present)
+* Psi Chi, the International Honor Society in Psychology (April 2016–Present)

@@ -13,7 +13,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Resume"
-      href: resume/resume.html
+      href: resume/resume.pdf
     - text: "Packages"
       menu:
         - text: "{joycon}"
