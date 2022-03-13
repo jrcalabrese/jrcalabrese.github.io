@@ -34,8 +34,8 @@ navbar:
       menu:
         - text: "#TidyTuesday"
           href: https://github.com/jrcalabrese/TidyTuesday
-        - text: "PSYCH 7823 Cheatsheet"
-          href: repeat.html
+        - text: "PSYCH 7823 Formula Sheet"
+          href: repeat_sheet.pdf
         - text: "Archive"
           href: archive.html
 #output: distill::distill_article

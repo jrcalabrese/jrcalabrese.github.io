@@ -28,9 +28,7 @@ For more information or if you are interested in collaboration, please contact m
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-```{r include=FALSE}
-#- <i class="fa fa-envelope"></i> [calabrese.75@osu.edu](calabrese.75@osu.edu)
-```
+- <i class="fa fa-envelope"></i> [calabrese.75@osu.edu](calabrese.75@osu.edu)
 - <i class="fa fa-link"></i> [jrcalabrese.github.io](https://jrcalabrese.github.io/)
 - <i class="fa fa-github"></i> [github.com/jrcalabrese](https://github.com/jrcalabrese)
 - <i class="fa fa-twitter"></i> [`@jrosecalabrese`](https://twitter.com/jrosecalabrese)

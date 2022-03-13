@@ -1,0 +1,352 @@
+---
+title: ""
+output: 
+  pdf_document:
+    template: repeat_template.tex
+---
+
+<style type="text/css">
+  .math {
+  font-size: small;
+}
+
+  body{
+  font-size: 12pt;
+}
+</style>
+
+\begin{tabular}{|l|l|}
+\hline
+Symbol & Meaning \\
+\hline
+$i$             & Individual or case (Level-1) \\
+$j$             & Group or cluster (Level-2) \\
+$\gamma$        & Represents a fixed effect \\
+$\gamma_{00}$   & Grand mean \\
+$\beta_{0j}$    & Random intercept \\
+$\beta_{1j}$    & Random slope \\
+$\epsilon_{ij}$ & Within-group variability (Level 1) \\
+$\upsilon_{0j}$ & Between-group variability (Level 2) \\
+$\tau_{00}$     & Res. var. of Level-2 random intercepts \\
+$\sigma^2$      & Res. var. of Level-1 random intercepts \\
+\hline
+\end{tabular} \
+
+\begin{tabular}{|l|l|l|}
+\hline
+Concept & Symbol & Level \\
+\hline
+Raw data & $x_{ij}$ & Level 1 and 2 \\
+Grand mean centered & ${\ddot{x}_{ij}}$ & Level 1 and 2 \\
+Group mean centered & ${\dot{x}_{ij}}$ & Level 1 \\
+Group means & ${\bar{x}_{.j}}$ & Level 2 \\
+Centered group means & ${\bar{x'}_{.j}}$ & Level 2 \\
+\hline
+\end{tabular}
+\
+
+# IMPORTANT
+\
+Independent variables: $x_{1}$, $x_{2}$, $x_{3}$...
+
+Dependent variable: $Y$
+\
+
+Level 1: **within-group** variation, represented by $i$
+
+Level 2: **between-group** variation, represented by $j$
+\
+
+Note that Level 1 variables can carry both Level 1 and 2 variation.
+
+In $x_{ij}$, the subscript $0$ represents the intercept and the $1$ represents the slope. E.g., $\gamma_{01}$ denotes the first predictor of the intercept and $\gamma_{12}$ represents the second predictor of the slope. 
+\
+
+The *fixed effects* of the model are constant for all cases in the population and do not carry $i$ or $j$ subscripts. Effects that vary across Level-2 units are denoted by $\gamma$ and $\epsilon$.
+\
+
+The *random effects* of the model vary across Level-1 and Level-2 units. Effects that vary across Level-2 units are denoted by $\upsilon$ and $\tau$.
+\
+
+# Intercept only Regression
+
+$$\operatorname{Y_{i}} = \beta_{0} + \epsilon_{i}$$
+
+# Simple linear regression
+
+$$\operatorname{Y_{i}} = \beta_{0} + \beta_{1}x_{i} + \epsilon_{i}$$
+
+# Multiple linear regression
+
+$$\operatorname{Y_{i}} = \beta_{0} + \beta_{1}x'_{i} + \epsilon_{i}$$
+
+# Moderation
+
+$$\operatorname{Y_{i}} = \beta_{0} + \beta_{1}x_1 + \beta_{2}x_2 + \beta_{3}x_1x_2$$
+
+Moderation can be re-written as: $$\operatorname{Y_{i}} = \beta_{0} + \beta_{1}x_1 + (\beta_{2} + \beta_{3}x_1)x_2 + \epsilon_{i}$$
+
+# Fixed effects model
+
+$$ 
+\operatorname{Y_{i}} = {\beta}_{1}x_{1i} + {\beta}_{2}x_{2i} + ... + {\beta}_{p}x_{pi} + \epsilon_{i}
+$$
+$$
+ \epsilon_{i} \sim_{iid} N(0, \sigma^2)
+$$
+
+# Random effects ANOVA
+\
+Level-1:
+$$ 
+\operatorname{Y_{ij}} = \beta_{0j} + \epsilon_{ij}
+$$
+$$
+ \epsilon_{i} \sim N(0, \sigma^2)
+$$
+
+Level-2:
+$$ 
+\operatorname{\beta_{0j}} = \gamma_{00} + \upsilon_{0j}
+$$
+$$
+ \upsilon_{0j} \sim_{iid} N(0, \tau_{00})
+$$
+
+Reduced:
+$$ 
+\operatorname{Y_{ij}} = \gamma_{00} + \upsilon_{0j} + \epsilon_{ij}
+$$
+
+# Random intercept regression model
+\
+Level-1:
+$$ 
+\operatorname{Y_{ij}} = \beta_{0j} + \beta_{1j}x_{ij} + \epsilon_{ij}
+$$
+$$
+ \epsilon_{i} \sim N(0, \sigma^2)
+$$
+
+Level-2:
+$$ 
+\operatorname{\beta_{0j}} = \gamma_{00} + \upsilon_{0j}
+$$
+$$
+\operatorname{\beta_{1j}} = \gamma_{10}
+$$
+$$
+ \upsilon_{0j} \sim_{iid} N(0, \tau_{00})
+$$
+
+Reduced:
+$$ 
+\operatorname{Y_{ij}} = \gamma_{00} + \gamma_{10}x_{ij} + \upsilon_{0j} + \epsilon_{ij}
+$$
+
+# Means as outcomes
+\
+Level-1:
+$$ 
+\operatorname{Y_{ij}} = \beta_{0j} + \epsilon_{ij}
+$$
+$$
+ \epsilon_{i} \sim N(0, \sigma^2)
+$$
+
+Level-2:
+$$ 
+\operatorname{\beta_{0j}} = \gamma_{00} + \gamma_{01}w_{j} + \upsilon_{0j}
+$$
+$$
+ \upsilon_{0j} \sim_{iid} N(0, \tau_{00})
+$$
+
+Reduced:
+$$ 
+\operatorname{Y_{ij}} = \gamma_{00} + \gamma_{01}w_{j} + \upsilon_{0j} + \epsilon_{ij}
+$$
+
+# Intercepts as outcomes
+\
+Level-1:
+$$ 
+\operatorname{Y_{ij}} = \beta_{0j} + \beta_{1j}x_{ij} + \epsilon_{ij}
+$$
+$$
+ \epsilon_{i} \sim N(0, \sigma^2)
+$$
+
+Level-2:
+$$ 
+\operatorname{\beta_{0j}} = \gamma_{00} + \gamma_{01}w_{j} + \upsilon_{0j}
+$$
+$$
+\operatorname{\beta_{1j}} = \gamma_{10}
+$$
+$$
+ \upsilon_{0j} \sim_{iid} N(0, \tau_{00})
+$$
+
+Reduced:
+$$ 
+\operatorname{Y_{ij}} = \gamma_{00} + \gamma_{01}w_{j} + \gamma_{10}x_{ij} + \upsilon_{0j} + \epsilon_{ij}
+$$
+
+# Slopes as outcomes
+\
+Level-1:
+$$ 
+\operatorname{Y_{ij}} = \beta_{0j} + \beta_{1j}x_{ij} + \epsilon_{ij}
+$$
+
+Level-2:
+$$ 
+\operatorname{\beta_{0j}} = \gamma_{00} + \gamma_{01}w_{j} + \upsilon_{0j}
+$$
+$$
+\operatorname{\beta_{1j}} = \gamma_{10} + \gamma_{11}w_{j} + \upsilon_{1j}
+$$
+$$
+\left(\begin{array}{cc} 
+\upsilon_{0j} \\ \upsilon_{1j}
+\end{array}\right)
+\overset{iid}{\sim}
+\left(\begin{array}{cc} 
+\begin{bmatrix}
+0 \\ 0
+\end{bmatrix}
+  ,
+\begin{bmatrix}
+\tau_{00} \;  \tau_{10} \\
+\tau_{10} \;  \tau_{11}
+\end{bmatrix}  
+\end{array}\right)
+$$
+
+Reduced:
+$$ 
+\operatorname{Y_{ij}} = 
+\gamma_{00} + 
+\gamma_{01}w_{j} + 
+\gamma_{10}x_{ij} + 
+\gamma_{11}w_{j}x_{ij} + 
+\upsilon_{0j} + 
+\upsilon_{1j}x_{ij} + 
+\epsilon_{ij}
+$$
+
+# Simple Intercepts and Simple Slopes
+
+$$
+\operatorname{\hat{y}} = \gamma_{00} + \gamma_{01}w + \gamma_{10}x + \gamma_{11}wx  
+$$
+
+And can be re-written as:
+
+$$
+\operatorname{\hat{y}} = (\gamma_{00} + \gamma_{01}w) + ( \gamma_{10} + \gamma_{11}w)x  
+$$
+
+# Random Intercepts and Random Slopes Model
+\
+Level-1:
+$$ 
+\operatorname{Y_{ij}} = \beta_{0j} + \beta_{1j}x_{ij} + \epsilon_{ij}
+$$
+
+Level-2:
+$$ 
+\operatorname{\beta_{0j}} = \gamma_{00} + \upsilon_{0j}
+$$
+$$
+\operatorname{\beta_{1j}} = \gamma_{10} + \upsilon_{1j}
+$$
+$$
+\left(\begin{array}{cc} 
+\upsilon_{0j} \\ \upsilon_{1j}
+\end{array}\right)
+\overset{iid}{\sim}
+\left(\begin{array}{cc} 
+\begin{bmatrix}
+0 \\ 0
+\end{bmatrix}
+  ,
+\begin{bmatrix}
+\tau_{00} \;  \tau_{10} \\
+\tau_{10} \;  \tau_{11}
+\end{bmatrix}  
+\end{array}\right)
+$$
+
+Reduced:
+$$ 
+\operatorname{Y_{ij}} = \gamma_{00} + \gamma_{10}x_{ij} + \upsilon_{0j} + \upsilon_{1j}x_{ij} + \epsilon_{ij}
+$$
+
+# Calculations
+\
+Correlation between random slopes and random intercepts:
+
+$$
+r = \frac{\tau_{10}}{{\sqrt{\tau_{00}}}{\sqrt{\tau_{11}}}}
+$$
+
+Intraclass correlation:
+
+$$
+ICC = \frac{\tau_{00}}{{{\tau_{00}}}+\sigma^2}
+$$
+
+\newpage
+
+# Interpretation
+\
+Regression coefficient: $\beta_{i}$ represents the predicted change in $Y$ for a 1-unit increase in $x_{1}$, holding $x_{2}$ constant. 
+\
+\
+Centered regression coefficient: $\beta_{i}$ is the influence if $x'_{1}$ on $Y$ when is $x'_{2}$ is zero or for an individual at the mean of $x_{2}$.
+\
+\
+Regression coefficient when an interaction is present: $\beta_{i}$ is the change in $Y$ for a 1-unit increase in $x_{1}$ when $x_{2}$ is zero.
+\
+
+# Fixed effects
+
+\
+The *fixed effects* of the model are constant for all cases in the population and do not carry $i$ or $j$ subscripts. The Greek symbol gamma ($\gamma$) denotes fixed effects. E.g., $\gamma_{00}$ has no subscript and does not vary. 
+
+$$ 
+\begin{split}
+\operatorname{Y_{ij}} = \gamma_{00} + \gamma_{10}Female_{ij} + \gamma_{20}Minority_{ij} + \\
+\gamma_{30}Female_{ij} * Minority_{ij} + \upsilon_{0j} + \epsilon_{ij}
+\end{split}
+$$
+
+The average language score for non-minority males is equal to $\gamma_{00}$. Female non-minorities scored $\gamma_{10}$ points higher/lower on the language test compared to male non-minorities. Male minorities scored $\gamma_{20}$ higher/lower on the language test compared to male non-minorities. Finally, female minorities scored $\gamma_{30}$ points higher/lower compared to male minorities. 
+\
+
+# Covariance parameter estimates
+\
+$\tau_{00}$ can be interpreted as between-group variance or the covariance within cluster $j$, e.g., how much do students in the same class vary, or what percentage of the total variance is attributable to the differences between classrooms? 
+\
+
+# Confidence interval
+
+> $\beta_{1}$ = -0.11, 95% *CI* = [-0.22, -0.01]
+
+The unknown population effect of mother's IQ on the number of children born to her ($\beta_{1}$) is expected to lie within 95% of similarly constructed intervals as [-0.22, -0.01].
+\
+
+# Intraclass correlation
+\
+Within a cluster, how correlated are the Level-1 units? Of the total variation of your outcome, what percentage is between-cluster variation? 
+
+# *p*-value and test-statistic
+
+> $\beta_{1}$ = -0.11, *t*(8) = -2.48, *p* = .038.
+
+There is a significant negative effect of mother's IQ on the number of children born to her. A 1-unit increase in mother's IQ is associated with a decrease of 1.1 children born to her. 
+\
+\
+Over repeated samples, the probability of observing a test statistic of -2.48 or more extreme, give that the null hypothesis of no effect of mother's IQ on children born to her is true, is 3.8%.
