@@ -174,7 +174,7 @@ $$
 \operatorname{Y_{ij}} = \beta_{0j} + \beta_{1j}x_{ij} + \epsilon_{ij}
 $$
 $$
- \epsilon_{i} \sim N(0, \sigma^2)
+\epsilon_{i} \sim N(0, \sigma^2)
 $$
 
 Level-2:
