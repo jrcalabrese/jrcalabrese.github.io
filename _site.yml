@@ -30,6 +30,8 @@ navbar:
           href: https://jrcalabrese.shinyapps.io/waisR/
         - text: "cbclR"
           href: https://jrcalabrese.shinyapps.io/cbclR/
+        - text: "doublecheckR"
+          href: https://jrcalabrese.shinyapps.io/doublecheckR/
     - text: "Other"
       menu:
         - text: "#TidyTuesday"
