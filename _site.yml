@@ -22,8 +22,12 @@ navbar:
           href: https://github.com/jrcalabrese/tablecloth
         - text: "{faceup}"
           href: https://github.com/jrcalabrese/faceup
-    - text: "Shiny"
+        - text: "{missy}"
+          href: https://github.com/jrcalabrese/missy
+    - text: "Software"
       menu:
+        - text: "MPV Video Clipper"
+          href: https://github.com/SeraphDev6/MPV_Clipper
         - text: "mmpiR"
           href: https://jrcalabrese.shinyapps.io/mmpiR/
         - text: "waisR"
