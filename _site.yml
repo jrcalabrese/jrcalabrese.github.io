@@ -42,6 +42,8 @@ navbar:
           href: https://github.com/jrcalabrese/TidyTuesday
         - text: "PSYCH 7823 Formula Sheet"
           href: repeat_sheet.pdf
+        - text: "EPPP Study Materials"
+          href: https://github.com/jrcalabrese/studyeppp
         - text: "Archive"
           href: archive.html
 #output: distill::distill_article

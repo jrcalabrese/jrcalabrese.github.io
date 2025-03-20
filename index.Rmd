@@ -2,8 +2,8 @@
 title: "Julianna R. Calabrese"
 image: images/julianna.jpg
 links:
-  - label: Twitter
-    url: "https://twitter.com/jrosecalabrese"
+  - label: Bluesky
+    url: "https://bsky.app/profile/jrcalabrese.bsky.social"
   - label: GitHub
     url: "https://github.com/jrcalabrese"
   - label: GoogleScholar

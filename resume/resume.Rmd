@@ -11,12 +11,11 @@ jobtitle: "Graduate Student in Clinical Psychology"
 address: "225 Psychology Building, 1835 Neil Avenue, The Ohio State University, Columbus, OH 43210"
 #email: "calabrese.75@osu.edu"
 github: jrcalabrese
-twitter: jrosecalabrese
-#orcid: 0000-0003-1010-2951
-#web: jrcalabrese.github.io
+#twitter: jrosecalabrese
+orcid: 0000-0003-1010-2951
+web: jrcalabrese.github.io
 updated: TRUE
 rdateformat: "`r format(Sys.time(), '%B %d, %Y')`"
-
 fontawesome: yes
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
