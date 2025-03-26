@@ -30,25 +30,27 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 # EDUCATION
 
-**The Ohio State University**, Ph.D. in Clinical Psychology \hfill 2020–Present  
+**The Ohio State University**, Ph.D. in Clinical Psychology \hfill Expected August 2026        
 Columbus, OH
 
-**Smith College**, B.A. in Psychology \hfill 2014–2018  
+* Clinical Psychology Graduate Program (APA and PCSAS Accredited)
+* Advisors: Sarah Schoppe-Sullivan, Ph.D., Michael Vasey, Ph.D.
+* Dissertation: *Unwrapping the effect of parent emotion socialization on child emotion regulation and social competence*
+
+**The Ohio State University**, M.S. in Psychology \hfill May 2022  
+Columbus, OH
+
+* Clinical Psychology Graduate Program (APA and PCSAS Accredited)
+* Advisors: Sarah Schoppe-Sullivan, Ph.D., Michael Vasey, Ph.D., Theodore Beauchaine, Ph.D.
+* Thesis: *Parent emotion regulation, parenting self-efficacy, and child emotion regulation: The moderating role of coparenting*
+
+**Smith College**, B.A. in Psychology \hfill May 2018  
 Northampton, MA
 
-# SELECT PUBLICATIONS
-
-Wang, J., **Calabrese, J. R.**, & Schoppe-Sullivan, S. J. Coparenting from different perspectives and associations with family functioning. *Journal of Family Psychology*. Under review.
-
-Wang, J., Zhang, Y., **Calabrese, J.R.**, Donithen, R., Schoppe-Sullivan, S. J., & Yoon, S. Psychological distress, parental hostility, and child behavior problems: The gendered moderating role of positive coparenting. *Journal of Family Violence*. Under review. 
-
-Schoppe-Sullivan, S. J., Cui, M., & **Calabrese, J. R.** (2024). Advancing Understanding of Overparenting and Child Adjustment: Mechanisms, Methodology, Context, and Development. *Journal of Social and Personal Relationships, 41*(2), 361-371. https://doi.org/10.1177/02654075231213397
-
-Yoon, S., **Calabrese, J. R.**, Yang, J., Logan, J. A. R., Maguire-Jack, K., Min, M. O., Slesnick, N., Browning, C. R., & Hamby, S. (2023). Association between longitudinal patterns of child maltreatment experiences and adolescent substance use. *Child Abuse & Neglect, 147*. https://doi.org/10.1016/j.chiabu.2023.106533 
-
-**Calabrese, J. R.**, & Schoppe-Sullivan, S. J. (2023). Parent emotion regulation and parenting self-efficacy: The moderating role of coparenting. *Journal of Social and Personal Relationships, 40*(12), 3832-3857. https://doi.org/10.1177/02654075231189464
-
-**Calabrese, J. R.**, Goetschius, L. G., Murray, L., Kaplan, M. R., Lopez-Duran, N., Mitchell, C., Hyde, L. W., & Monk, C. S. (2022). Mapping frontostriatal white matter tracts and their association with reward-related ventral striatum activation in adolescence. *Brain Research, 1780*. https://doi.org/10.1016/j.brainres.2022.147803
+* Graduated cum laude, highest honors in Psychology
+* Minor in Applied Statistics
+* Advisor: Nnamdi Pole, Ph.D.
+* Thesis: *Don't take it at face value: A case study on facial expressivity, emotional coherence, and posttraumatic stress disorder*
 
 # CLINICAL SKILLS 
 
@@ -75,8 +77,15 @@ Yoon, S., **Calabrese, J. R.**, Yang, J., Logan, J. A. R., Maguire-Jack, K., Min
 * William Sentman Taylor Award, Smith College, $500 (2018)
 * Smith College Dean’s List (2015–2016, 2017–2018)
 
-# PROFESSIONAL AFFLIATIONS
+# PROFESSIONAL AFFILIATIONS
 
-* Phi Beta Kappa, Academic Honor Society (May 2018–Present)
-* Mu Sigma Rho, the National Honorary Society for Statistics (May 2018–Present)
-* Psi Chi, the International Honor Society in Psychology (April 2016–Present)
+* American Psychological Association
+  - Division 7, Developmental Psychology (2025–Present) 
+  - Division 43, Society for Couple and Family Psychology (2025–Present) 
+  - Division 53, Society of Clinical Child and Adolescent Psychology (2025–Present) 
+  - Division 54, Society of Pediatric Psychology (2025–Present) 
+  - Division 56, Trauma Psychology (2025–Present) 
+* National Register of Health Service Psychologists (2025–Present) 
+* Phi Beta Kappa, Academic Honor Society (2018–Present)
+* Mu Sigma Rho, the National Honorary Society for Statistics (2018–Present)
+* Psi Chi, the International Honor Society in Psychology (2016–Present)
