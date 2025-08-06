@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.16)  6 AUG 2025 09:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.16)  6 AUG 2025 09:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -514,13 +514,13 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  15419 strings out of 475171
  240381 string characters out of 5765155
- 694264 words of memory out of 5000000
+ 695264 words of memory out of 5000000
  38091 multiletter control sequences out of 15000+600000
  588841 words of font info for 126 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,79p,1195b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/Julianna/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk></Users/Julianna/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/Julianna/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/Julianna/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/Julianna/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/Julianna/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on resume.pdf (1 page, 83659 bytes).
+Output written on resume.pdf (1 page, 83706 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
