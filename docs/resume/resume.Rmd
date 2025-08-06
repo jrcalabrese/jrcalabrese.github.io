@@ -28,7 +28,12 @@ urlcolor: blue
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 ```
 
-# EDUCATION
+# EDUCATION/TRAINING
+
+**Child and Adolescent Behavioral Health**, Doctoral Psychology Internship Program \hfill Expected June 2026    
+Canton, OH
+
+* Rotations: Juvenile Justice Program, Sexually Inappropriate Behavior Remediation (SIBR) Program
 
 **The Ohio State University**, Ph.D. in Clinical Psychology \hfill Expected August 2026        
 Columbus, OH
@@ -41,7 +46,7 @@ Columbus, OH
 Columbus, OH
 
 * Clinical Psychology Graduate Program (APA and PCSAS Accredited)
-* Advisors: Sarah Schoppe-Sullivan, Ph.D., Michael Vasey, Ph.D., Theodore Beauchaine, Ph.D.
+* Advisors: Sarah Schoppe-Sullivan, Ph.D., Michael Vasey, Ph.D.
 * Thesis: *Parent emotion regulation, parenting self-efficacy, and child emotion regulation: The moderating role of coparenting*
 
 **Smith College**, B.A. in Psychology \hfill May 2018  
@@ -59,11 +64,16 @@ Northampton, MA
 * Cognitive-behavioral therapy (CBT)
 * Trauma-focused cognitive behavioral therapy (TF-CBT)
 * Naturalistic developmental behavioral intervention (NDBI)
+* Parent-child interaction therapy (PCIT)
 * RUBI Parent training for disruptive behavior
+* Social-emotional learning (SEL)
+* Evidence-based treatment for problem sexual behaviors and sexually inappropriate behaviors in children and adolescents (Pathways Fifth Edition)
 
 ## ASSESSMENT
 
-* Wechsler Adult Intelligence Scale Fourth Edition (WAIS-IV)
+* Wechsler Adult Intelligence Scale, Fourth Edition (WAIS-IV)
+* Wechsler Intelligence Scale for Children, Fifth Edition (WISC-V)
+* Wechsler Individual Achievement Test, Fourth Edition (WIAT-IV)
 * Minnesota Multiphasic Personality Inventory-2 (MMPI-2)
 * Structured Clinical Interview for DSM-5 (SCID-5)
 * Early Start Denver Model Curriculum Checklist (ESDM)
@@ -71,21 +81,9 @@ Northampton, MA
 
 # HONORS & AWARDS
 
+* Division 43 Convention Travel Award, $400 (2025)
 * Ray Travel Award for Service and Scholarship, $1000 (2024)
 * Critical Difference for Women Professional Development Grant, The Women's Place, $825 (2023)
 * College of Arts and Sciences Division of Social and Behavioral Sciences Scholarship, The Ohio State University (2020) 
 * William Sentman Taylor Award, Smith College, $500 (2018)
 * Smith College Dean’s List (2015–2016, 2017–2018)
-
-# PROFESSIONAL AFFILIATIONS
-
-* American Psychological Association
-  - Division 7, Developmental Psychology (2025–Present) 
-  - Division 43, Society for Couple and Family Psychology (2025–Present) 
-  - Division 53, Society of Clinical Child and Adolescent Psychology (2025–Present) 
-  - Division 54, Society of Pediatric Psychology (2025–Present) 
-  - Division 56, Trauma Psychology (2025–Present) 
-* National Register of Health Service Psychologists (2025–Present) 
-* Phi Beta Kappa, Academic Honor Society (2018–Present)
-* Mu Sigma Rho, the National Honorary Society for Statistics (2018–Present)
-* Psi Chi, the International Honor Society in Psychology (2016–Present)
